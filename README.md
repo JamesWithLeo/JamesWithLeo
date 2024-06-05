@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @James Leo
-- 👀 I’m interested in WPF, cybersecurity and networking.	
+- 👀 	
 - 🌱 I’m currently learning -> html, css, js
 - var oldLearning = new string[] {"python", "mysql", "github", "csharp"}
 - 💻 I don't consider myself as entry level dev, 
