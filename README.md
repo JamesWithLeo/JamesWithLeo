@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @James Leo
 - 👀 	
-- 🌱 I’m currently learning -> html, css, js
+- 🌱 I’m currently learning -> react, react native, node, & express. 
 - var oldLearning = new string[] {"python", "mysql", "github", "csharp"}
 - 💻 I don't consider myself as entry level dev, 
 - 💞️ 	for now im just a simple student doing dreams bit by bit.
